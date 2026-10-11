@@ -14,7 +14,4 @@
 河北4K,https://event.pull.hebtv.com:443/live/live101.m3u8
 河北4K,http://106.53.99.30/tv/api.php?id=hebtv4k
 Love Nature 4K,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=1761&tk=f6cc1e0a0e1a
-华数4K,http://111.22.153.159:35455/itv/2000000004000000014.m3u8?cdn=hnbblive
-华数4K,http://home.wwang.pw:35455/itv/2000000004000000014.m3u8?cdn=hnbblive
-纯享4K,http://home.wwang.pw:35455/itv/1000000004000011651.m3u8?cdn=ystenlive
 CCTV4K,http://107.150.52.50:82/live/cctv4k.m3u8
